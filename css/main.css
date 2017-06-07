@@ -168,6 +168,15 @@ nav.Bmenu a{
 	font-weight: bold;
 }
 
+.bunnyes{
+	padding-left: 10px;
+	text-align: center;
+}
+
+.bunnyes img{
+	width: 145px;
+}
+
 footer{
 	background-color: #086A87;
 	width: 100%;
