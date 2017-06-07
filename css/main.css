@@ -127,4 +127,43 @@ nav.Bmenu a{
 	font-size: 0.87em;
 }
 
+.video{
+	background-color: #086A87;
+}
 
+.videos{
+	padding: 20px;	
+}
+
+.captura-videos{
+	background-color: #E0F8F7;
+}
+
+.contenedor-left{
+	float: left;
+}
+
+.texto-video{
+	background-color: #E0F8F7;
+	text-align: center;
+	width: 98.2%;
+	height: 100%;
+	padding: 5px;
+}
+
+.texto-video h3{
+	padding-top: 10px;
+	font-size: 1.4em;
+	color: #FA5882;	
+}
+
+.texto-video p{
+	text-align: left;
+	line-height: 17px;
+	font-size: 0.9em;
+	padding: 0 20px;
+}
+
+#boldt {
+	font-weight: bold;
+}
