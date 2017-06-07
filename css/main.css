@@ -177,6 +177,31 @@ nav.Bmenu a{
 	width: 145px;
 }
 
+.contenedor-right{
+	float: left;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+.search{
+	width: 100%;
+	height: 90px;
+	margin-bottom: 10px;
+	background-color: #E0F8F7;
+	border-radius: 0.5em;	
+}
+
+.search-txt{
+	opacity: 0.7;
+	margin-top: 20px;
+	border: none;
+	padding: 10px 25px;
+	margin-left: 25px;
+	font-size: 20px;
+	border-radius: 0.2em;	
+
+}
+
 footer{
 	background-color: #086A87;
 	width: 100%;
