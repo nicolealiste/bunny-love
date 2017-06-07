@@ -56,3 +56,48 @@ nav.Bmenu a{
 	font-weight: 300;
 	padding: 0 20px 0 28px;
 }
+
+.Bmenu a:hover{
+	color: #FA5882;
+	font-weight: bold;
+}
+
+.img-conejo{
+	width: 80%;
+	height: 400px;
+	background-image: url(../img/img-1.jpg);
+	position: relative;
+	margin-top: 20px;
+	margin-left: 150px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.bg-color{
+	background-color: rgba(15,107,135, 0.7);
+	width: 80%;
+	height: 80%;
+	position: absolute;
+	top: 40px;
+	left: 100px;
+}
+
+.texto-head{
+	text-align: center;
+}
+
+.texto-head h1{
+	text-align: center;
+	font-size: 5em;
+	color: #FA5882;
+	margin-top: 60px;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+
+.texto-head p{
+	color: whitesmoke;
+	font-style: italic;
+	font-weight: 300;
+}
+
